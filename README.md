@@ -3,7 +3,6 @@
   <br />
   <br />
   <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
@@ -22,12 +21,12 @@ Dedicated to building high-performance backend systems, handling complex data wo
 ## Core Competencies
 
 **Backend & Systems**
-- Languages: Go, JavaScript (Node.js)
+- Languages: Go
 - Databases: MySQL, MariaDB (SQL)
 
 **Current Focus & Learning**
-- Tooling & Environment: Neovim, VS Code
-- OS: Arch Linux, Windows
+- Tooling & Environment: VS Code
+- OS: Windows
 - Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
 
 ---
