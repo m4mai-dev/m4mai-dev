@@ -1,19 +1,13 @@
-<div align="center">
-
-<!-- Header Text/Title -->
-<h1>m4mai-dev</h1>
-<p><b>Backend Developer</b></p>
-
-<!-- Skill Badges -->
-<p>
-  <b>Backend Developer</b> &nbsp;|&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> &nbsp;
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+<p align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=m4mai-dev&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Backend%20Developer&descSize=20&descAlign=50&descAlignY=66&color=00d2ff" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
 </p>
-
-</div>
 
 ---
 
@@ -27,13 +21,52 @@ Dedicated to building high-performance backend systems, handling complex data wo
 
 ## Core Competencies
 
-### Backend & Systems
+**Backend & Systems**
+- Languages: Go, JavaScript (Node.js)
+- Databases: MySQL, MariaDB (SQL)
 
-* **Languages:** Go, JavaScript (Node.js)
-* **Databases:** MySQL, MariaDB (SQL)
+**Current Focus & Learning**
+- Tooling & Environment: Neovim, VS Code
+- OS: Arch Linux, Windows
+- Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
 
-### Current Focus & Learning
+---
 
-* **Tooling & Environment:** Neovim, VS Code
-* **OS:** Arch Linux, Windows
-* **Diagramming:** Draw.io (system design, algorithm flow, embedded architecture)
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4mai-dev&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4mai-dev&theme=radical" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4mai-dev&theme=radical" alt="Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=m4mai-dev&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4mai-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/m4mai-dev/m4mai-dev/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for m4mai-dev" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/m4mai-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/m4mai-dev?style=social" alt="Stars" />
+</p>
+
+---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4mai-dev/m4mai-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4mai-dev/m4mai-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m4mai-dev/m4mai-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
